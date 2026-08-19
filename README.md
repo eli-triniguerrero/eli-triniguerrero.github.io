@@ -1,16 +1,15 @@
-# Soy Eli, diseñadora de interfaz de usuario y este es mi portafolio :) 
+# Soy Eli, Project Manager TI | Product Manager | Especialista en Transformación Digital
 
-Hola, soy Eli, diseñadora UI / UX
+Bienvenida a mi espacio profesional. Soy una Project Manager TI apasionada por la gestión de productos digitales, la integración de tecnologías emergentes (IA, Cloud) y la optimización de procesos mediante metodologías ágiles.
 
-Siempre curiosa por el mundo tecnológico, visitar museos, disfruto aprender y adaptarme al ritmo de la incetidumbre y los nuevos retos :D
+Cuento con 3 años de experiencia liderando proyectos digitales de alto impacto y 2 años como diseñadora de producto UI/UX.
 
-Tengo experiencia en:
-- crear prototipos (alta y baja fidelidad) en Figma y Adobe XD,
-- conocimientos en  HTML5, CSS, Bootstrap y voy dando pasitos para mejorar en javascript y python,
-- trabajar y colaborar en equipo para definir y alcanzar objetivos medidos por sprints (JIRA)
+- Gestión de Proyectos & Producto: Liderazgo end-to-end, gestión de stakeholders, roadmaps y mitigación de riesgos.
+- Transformación Digital: Migración de sistemas, implementación de IA generativa (Gemini, Claude, Dragonfly AI) y despliegues en entornos Cloud (GCP).
+- Tech Stack & UX: Background técnico en desarrollo web (HTML/CSS, Python/Django) y diseño centrado en el usuario (Figma, UX Research).
+- Analítica: Optimización basada en datos mediante Google Analytics, Looker Studio y KPIs estratégicos.
 
-Quiero integrarme a un equipo empático y abierto a compartir sus conocimientos para una mejora continua que llenen ambas visiones (buen producto - buena empresa)
-
-Si te ha interesado mi perfil, me interesa conocerte y escucharte, tal vez podamos hacer equipo :)
-
-![Perfil Linkedin](https://www.linkedin.com/in/eli-triniguerrero/)
+## 📫 Conectemos
+¡Siempre estoy abierta a nuevas oportunidades!
+#### [✨💡Perfil Linkedin ⛓️‍💥](https://www.linkedin.com/in/eli-triniguerrero/)
+#### [✨💻Mi Portafolio ⛓️‍💥](https://eli-triniguerrero.github.io/mi_portafolio)
