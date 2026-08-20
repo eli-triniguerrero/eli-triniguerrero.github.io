@@ -97,6 +97,9 @@ body {
 .text-bold {
   font-weight: bold;
 }
+.text-italic {
+  font-style: italic;
+}
 
 .bg-button-frambuesa {
   color: var(--bs-frambuesa);
