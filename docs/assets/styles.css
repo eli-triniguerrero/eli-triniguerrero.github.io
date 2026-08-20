@@ -3,6 +3,9 @@
   --bs-naranja: #e45f00;
   --bs-amarillo: #ffba26;
   --bs-dark: #333333;
+  --bs-uva: #8732c0;
+  --bs-aqua: #09a89b;
+
 }
 @font-face {
     font-family: 'Rubik';
@@ -23,6 +26,9 @@
     src: url('fonts/BerkshireSwash-Regular.ttf') format('truetype');
     font-style: normal;
     font-weight: normal;
+  }
+  body {
+    background-color: #faf9f9;
   }
 
   .text-font {
@@ -55,12 +61,12 @@ body {
 }
 /* NABVAR */
 .bg-navbar {
-  background: linear-gradient(63.5deg, var(--bs-frambuesa) 16.42%, var(--bs-naranja) 83.15%);
+  background: linear-gradient(63.5deg, var(--bs-uva) 16.42%, var(--bs-aqua) 83.15%);
   color: #ffffff;
 }
 .nav-link:hover {
-  background-color: #333333;
-  border: 1px #333333;
+  background-color: var(--bs-aqua);
+  border: 1px var(--bs-aqua);
   border-radius: 4px;
 }
 
@@ -80,7 +86,7 @@ body {
 }
 .bg-about {
     color: #ffffff;
-    background-color: var(--bs-frambuesa);
+    background: linear-gradient(180deg, var(--bs-aqua) 16.42%, var(--bs-dark) 83.15%);
     padding-top: 2rem;
     padding-bottom: 3rem;
 }
@@ -93,6 +99,12 @@ body {
 }
 .text-naranja {
   color: var(--bs-naranja);
+}
+.text-uva {
+  color: var(--bs-uva);
+}
+.text-aqua {
+  color: var(--bs-aqua);
 }
 .text-bold {
   font-weight: bold;
@@ -114,6 +126,19 @@ body {
   color: var(--bs-frambuesa);
   font-size: 1.2rem;
 }
+.bg-button-uva {
+  color: var(--bs-uva);
+  border-color: var(--bs-uva) !important;
+  font-size: 1.2rem;
+}
+.bg-button-uva:hover {
+  color: #ffffff;
+  background-color: var(--bs-uva);
+}
+.link-uva {
+  color: var(--bs-uva);
+  font-size: 1.2rem;
+}
 
 .btn-outline-dark:hover {
   background-color: black;
@@ -122,6 +147,10 @@ body {
 
 .footer-link:hover {
   color: var(--bs-amarillo) !important;
+}
+
+.text-center {
+  text-align: center;
 }
 
 
